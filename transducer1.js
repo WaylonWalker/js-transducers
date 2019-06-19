@@ -1,7 +1,3 @@
-// inspired by @mpjme in https://www.youtube.com/watch?v=xcGbhU_DtRg
-// The video went a bit abstract a difficult for me to follow
-//
-// here I converted a map to a reduce  and abtracted the function for each transform to be utilized in either one.
 
 const dragons = [
     { name: 'fluffykins', size: 1 },
